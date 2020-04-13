@@ -1,0 +1,95 @@
+PS C:\Users\jonat\Documents\Masters\DSC 550 - Data Mining\Exercise7> python main.py
+Find a movie to rate: Batman
+1. Batman Forever (1995)
+2. Batman (1989)
+3. Batman Returns (1992)
+4. Batman & Robin (1997)
+5. Batman: Mask of the Phantasm (1993)
+6. Batman (1966)
+7. Batman Begins (2005)
+8. Batman: Under the Red Hood (2010)
+9. Batman: Year One (2011)
+10. Batman: The Dark Knight Returns, Part 1 (2012)
+11. Batman: The Dark Knight Returns, Part 2 (2013)
+12. Batman v Superman: Dawn of Justice (2016)
+13. I don't see what I'm looking for.
+Type number of movie to add from list: 1
+How much did you enjoy Batman Forever (1995) on a scale of 0 to 5?
+(0 - hated it, 5 - loved it): 5
+My List:
+1. ('Batman Forever (1995)', 5)
+Find a movie to rate: avengers
+1. Avengers, The (1998)
+2. Avengers, The (2012)
+3. Avengers: Age of Ultron (2015)
+4. Toxic Avenger, The (1985)
+5. Toxic Avenger, Part II, The (1989)
+6. Toxic Avenger Part III: The Last Temptation of Toxie, The (1989)
+7. Revengers Tragedy (2002)
+8. Captain America: The First Avenger (2011)
+9. I don't see what I'm looking for.
+Type number of movie to add from list: 2
+How much did you enjoy Avengers, The (2012) on a scale of 0 to 5?
+(0 - hated it, 5 - loved it): 5
+My List:
+1. ('Batman Forever (1995)', 5)
+2. ('Avengers, The (2012)', 5)
+Find a movie to rate: captain america
+1. Captain America: The First Avenger (2011)
+2. Captain America: The Winter Soldier (2014)
+3. Captain America: Civil War (2016)
+4. I don't see what I'm looking for.
+Type number of movie to add from list: 1
+How much did you enjoy Captain America: The First Avenger (2011) on a scale of 0 to 5?
+(0 - hated it, 5 - loved it): 5
+My List:
+1. ('Batman Forever (1995)', 5)
+2. ('Avengers, The (2012)', 5)
+3. ('Captain America: The First Avenger (2011)', 5)
+Find a movie to rate: x-men
+1. X-Men (2000)
+2. X2: X-Men United (2003)
+3. X-Men: The Last Stand (2006)
+4. X-Men Origins: Wolverine (2009)
+5. X-Men: First Class (2011)
+6. X-Men: Days of Future Past (2014)
+7. X-Men: Apocalypse (2016)
+8. I don't see what I'm looking for.
+Type number of movie to add from list: 1
+How much did you enjoy X-Men (2000) on a scale of 0 to 5?
+(0 - hated it, 5 - loved it): 4
+My List:
+1. ('Batman Forever (1995)', 5)
+2. ('Avengers, The (2012)', 5)
+3. ('Captain America: The First Avenger (2011)', 5)
+4. ('X-Men (2000)', 4)
+Find a movie to rate: superman
+1. Superman (1978)
+2. Superman II (1980)
+3. Superman III (1983)
+4. Superman IV: The Quest for Peace (1987)
+5. Superman Returns (2006)
+6. Waiting for 'Superman' (2010)
+7. All-Star Superman (2011)
+8. Superman and the Mole-Men (1951)
+9. Batman v Superman: Dawn of Justice (2016)
+10. Super Mario Bros. (1993)
+11. I don't see what I'm looking for.
+Type number of movie to add from list: 9
+How much did you enjoy Batman v Superman: Dawn of Justice (2016) on a scale of 0 to 5?
+(0 - hated it, 5 - loved it): 5
+My List:
+1. ('Batman Forever (1995)', 5)
+2. ('Avengers, The (2012)', 5)
+3. ('Captain America: The First Avenger (2011)', 5)
+4. ('X-Men (2000)', 4)
+5. ('Batman v Superman: Dawn of Justice (2016)', 5)
+Start Recommendation (Y)
+ Add Another Movie (N)
+y
+Your recommended movies:
+Ant-Man (2015)
+National Treasure (2004)
+Lord of the Rings: The Fellowship of the Ring, The (2001)
+Amazing Spider-Man, The (2012)
+Hobbit: The Desolation of Smaug, The (2013)
